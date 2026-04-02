@@ -1,2 +1,5 @@
-# python-programs
-Basic Python practice programs
+## Programs:
+- Palindrome Checker
+- Reverse Number
+- Count Digits
+- Sum of Digits
