@@ -3,3 +3,4 @@
 - Reverse Number
 - Count Digits
 - Sum of Digits
+- Armstrong numbers
